@@ -1,4 +1,4 @@
-# InstantDoctor 🩺
+# InstantDoctor247 🩺
 
 An on-demand healthcare, telehealth video consultation, and clinic booking platform built faithfully from the Figma design system.
 
